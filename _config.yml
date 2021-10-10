@@ -41,8 +41,9 @@ round-avatar: true
 social-network-links:
   email: "aeirya@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  github: aeirya
+  telegram: aeiryam
 #   facebook: deanattali
-#   github: aeirya
 #   twitter: daattali
 #   patreon: DeanAttali
 #   youtube: c/daattali
@@ -58,7 +59,6 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: aeiryam
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
