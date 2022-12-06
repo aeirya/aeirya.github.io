@@ -33,10 +33,10 @@ Aeirya
 P.S.: Here are a few shots of me.
 
 <p float="left">
-  <img src="{{ 'assets/img/me/ducky_tie_at_party.jpg' | relative_url }}" width="50%" />
-  <img src="{{ 'assets/img/me/sitting_out_in_the_sun.jpg' | relative_url }}" width="50%" />
-  <img src="{{ 'assets/img/me/taking_off_glasses.jpg' | relative_url }}" width="50%" />
-  <img src="{{ 'assets/img/me/smiling_close_up_in_rain.jpg' | relative_url }}" width="50%" />
+  <img src="{{ 'assets/img/me/ducky_tie_at_party.jpg' | relative_url }}" width="45%" />
+  <img src="{{ 'assets/img/me/sitting_out_in_the_sun.jpg' | relative_url }}" width="45%" />
+  <img src="{{ 'assets/img/me/taking_off_glasses.jpg' | relative_url }}" width="45%" />
+  <img src="{{ 'assets/img/me/smiling_close_up_in_rain.jpg' | relative_url }}" width="45%" />
 </p>
 
 <!-- ### My story -->
