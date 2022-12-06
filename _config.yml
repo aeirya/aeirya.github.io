@@ -247,7 +247,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-  - posts/sample\ archive
+  - _posts/sample\ archive
 
 plugins:
   - jekyll-paginate
