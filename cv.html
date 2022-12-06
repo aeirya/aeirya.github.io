@@ -8,5 +8,9 @@ permalink: /cv
   <h1>Aeirya Mohammadi's CV</h1>
   <br/>
 
-  <embed src="{{ 'assets/pdf/cv.pdf' | relative_url }}" style="min-height:100vh;width:100%">
+  <object data="{{ 'assets/pdf/cv.pdf' | relative_url }}" style="min-height:100vh;width:100%"> 
+    <embed src="{{ 'assets/pdf/cv.pdf' | relative_url }}" style="min-height:100vh;width:100%"> </embed>
+    Error: The page could not be embedded.
+</object>
+  <!-- <embed src="{{ 'assets/pdf/cv.pdf' | relative_url }}" style="min-height:100vh;width:100%"> -->
 </div>
