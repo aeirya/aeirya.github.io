@@ -28,6 +28,14 @@ Hang in there!
 
 Aeirya
 
+P.S.: Here are a few shots of me.
+
+<p float="left">
+  <img src="{{ 'assets/img/me/ducky_tie_at_party.jpg' | relative_url }}" width="33%" />
+  <img src="{{ 'assets/img/me/sitting_out_in_the_sun.jpg' | relative_url }}" width="33%" />
+  <img src="{{ 'assets/img/me/taking_off_glasses.jpg' | relative_url }}" width="33%" />
+</p>
+
 <!-- ### My story -->
 
 <!-- To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions. -->
