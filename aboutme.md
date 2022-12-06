@@ -6,10 +6,12 @@ title: About me
 
 Greetings! My name is Aeirya Mohammadi. I'm currently a computer science undergraduate, interested in all sorts of stuff, like languages and linguistics, science, and computers. 
 
+### Education
 I'm currently stepping into the field of NLP and computational linguistics, which I've found to be the reason I've come on such a long journey. Previously I was invested in computer architecture and systems and, before that, software engineering. All of which I still find intriguing, but for computers and languages, I do have an inner guide.
 
-I used to study for the chemistry olympiad as a hobby and was admitted as a chemical engineering student first. It was actually so much fun, and I can't wait to write about it, but it was still not the thing I wanted to do for the rest of my life.
+I used to study for the chemistry olympiad as a hobby. I remember having to learn so many new things in a short period. Those were some of the best days of my life. I was later admitted as a chemical engineering student. Actually, It was so much fun, and I can't wait to write about it, but it was still not the thing I wanted to do for the rest of my life.
 
+### Languages
 So... about languages, I can only confidently speak two: English and Persian. I can get a few more, though. 
 
 Where I come from, Iran, we study Arabic back in school for about 6 years, which is quite some time. I remember once translating footage of news which everybody found quite impressive.  
@@ -31,9 +33,10 @@ Aeirya
 P.S.: Here are a few shots of me.
 
 <p float="left">
-  <img src="{{ 'assets/img/me/ducky_tie_at_party.jpg' | relative_url }}" width="33%" />
-  <img src="{{ 'assets/img/me/sitting_out_in_the_sun.jpg' | relative_url }}" width="33%" />
-  <img src="{{ 'assets/img/me/taking_off_glasses.jpg' | relative_url }}" width="33%" />
+  <img src="{{ 'assets/img/me/ducky_tie_at_party.jpg' | relative_url }}" width="50%" />
+  <img src="{{ 'assets/img/me/sitting_out_in_the_sun.jpg' | relative_url }}" width="50%" />
+  <img src="{{ 'assets/img/me/taking_off_glasses.jpg' | relative_url }}" width="50%" />
+  <img src="{{ 'assets/img/me/smiling_close_up_in_rain.jpg' | relative_url }}" width="50%" />
 </p>
 
 <!-- ### My story -->
