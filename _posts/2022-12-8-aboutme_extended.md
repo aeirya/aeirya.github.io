@@ -2,7 +2,7 @@
 layout: page
 title: About me (Extended)
 subtitle: A very longer version of about me
-tags: []
+tags: [aboutme]
 ---
 
 Greetings! My name is Aeirya Mohammadi. I'm currently a computer science undergraduate, interested in all sorts of stuff, like languages and linguistics, science, and computers. 
