@@ -6,23 +6,25 @@ classes:
 author_profile: true
 ---
 
+Click [here](/aboutme_full) to see original text.
+Check out [CV](/shortcv) and [research](/research) for academic content.
+
+# About me
+Hi there! I'm Aeirya, a 23-year-old with a passion for languages and technology. My journey into linguistics started early thanks to Middle Persian roots of my name, and mythology. 
+
+## Languages
+Exploring languages has been a lifelong fascination for me. From delving into Japanese and French to uncovering the nuances of Norwegian and Chinese. I've enjoyed diving deep into more than a dozen languages and dialects, such as Gilaki dialects. My linguistic adventures extend to exploring various writings systems, from Cyrillic to Hebrew. Alongside this passion, I've also immersed myself in technology, dabbling in programming languages, and game development.
+
 <!--excerpt-->
 
-(I didn't have much time to refine this text, but GPT san <a href="/aboutmegpt">did</a>).
+## Science & major
+Drawn to science and engineering, I participated in the National Chemistry Olympiad, then entered Chemical Engineering program, before realizing my true potential and passion lies in Computer Science. I consider myself fortunate to be living in a time of rapid advancements in natural language processing.
 
-This is a very brief story mostly about my linguistics journey. For (academic) projects and experience check my <a href="/research">research</a>.
+## Personal life
+Beyond academics, I enjoy activities like basketball, swimming, board and video games, and playing six musical instruments. Recently, I've also started exploring Yoga, cooking, psychology, neuroscience  and cognitive science concepts, and more of linguistics. I believe in finding a balance between work and personal journey, valuing each experience as an opportunity to learn and grow.
 
-I am Aeirya, a 23-year-old person with a Middle Persian (Pahlavi) name that dragged me into linguistics and mythology very early in life. Ever since I went to school I studied more than a dozen languages (Chinese, Korean, Kurdish, Norwegian, German, Latin, ...), dialects (Gilaki, Mazandarani, Lebanese, Khouzestani Arabic), and writings (Cyrlic, Aramaic, Hebrew, ...) in my free time and as a hobby. 
 
-My other activity was programming and computer technology. I got to learn game development with Unity3D, 3D modeling, web and software development, and other side skills that always come back to me whenever I'm trying to make myself apps and tools.
+## More of me
+Feel free to contact me using [email](mailto:aeiryam@gmail.com), or check out some <a href="/gallery">photos</a> of me.
 
-My love for science and engineering led me to the National Chemistry Olympiad and later, the Chemical Engineering major, but my passion led me to Computer Science, which is where I had always dreamt of dedicating my academic life.
-
-I am so lucky to be born in a time where I can be a part of the natural language processing revolution, and be equipped with necessary tools along the way.
-
-As an ever-energetic and cheerful person, I love lots of physical activities such as basketball, swimming, skating, and mental activities such as chess, video games, and board games, especially if such activity makes me closer to people and helps me socialize even stronger.
-As of now, I've started my inner journey with Yoga and cooking, and my outer journey with finally jumping to my dream field of computational linguistics, and reading papers, some of which thrill me to no end. Studying in the most competitive university in Iran has made me rethink my purpose in life, which is why I believe in making a balance between work and job.
-
-As a person with a high amount of interests, I believe I have been able to transfer the knowledge and perspective I gain in each experience, and no path ventured is a waste for one who can learn from it.
-
-Here are some <a href="/gallery">photos</a> of me.
+(Rewritten with the help of ChatGPT.)
