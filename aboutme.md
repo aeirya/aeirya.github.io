@@ -6,9 +6,9 @@ classes:
 author_profile: true
 ---
 
-(I didn't have much time to refine this text, but GPT san <a href="/aboutmegpt.md">did</a>).
+(I didn't have much time to refine this text, but GPT san <a href="/aboutmegpt">did</a>).
 
-This is a very brief story mostly about my linguistics journey. For (academic) projects and experience check my <a href="/research.md">research</a>.
+This is a very brief story mostly about my linguistics journey. For (academic) projects and experience check my <a href="/research">research</a>.
 
 I am Aeirya, a 23-year-old person with a Middle Persian (Pahlavi) name that dragged me into linguistics and mythology very early in life. Ever since I went to school I studied more than a dozen languages (Chinese, Korean, Kurdish, Norwegian, German, Latin, ...), dialects (Gilaki, Mazandarani, Lebanese, Khouzestani Arabic), and writings (Cyrlic, Aramaic, Hebrew, ...) in my free time and as a hobby. 
 
