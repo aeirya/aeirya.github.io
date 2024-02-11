@@ -22,9 +22,9 @@ author_profile: true
 
 <hr>
 
-- Natural Language Understanding (Seq-Clf, Seq2Seq, IDSF, QA, ...)
+- Natural Language Understanding (Seq-Clf, Seq2Seq, Intent Detection & Slot Filling, QA, ...)
 - Information Retrieval (Relation Extraction, Collaborative Filtering, Embeddings, ...)
-- Language Models (BERT, Encoder-Decoder, GPT, N-Gram)
+- Language Models (BERT, GPT, N-Gram) + Encoder-Decoder
 - Big Data (Spark, Map Reduce, Cassandra)
 - Image Processing (Image Morphing, Synthesis, Manipulation, Blending, ...)
 
