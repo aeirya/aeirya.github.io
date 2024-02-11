@@ -6,7 +6,7 @@ classes:
 author_profile: true
 ---
 
-Click [here](/aboutme_full) to see original text.
+Click [here](/aboutme_full) to see the original text.
 Check out [CV](/shortcv) and [research](/research) for academic content.
 
 # About me
