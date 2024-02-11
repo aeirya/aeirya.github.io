@@ -19,3 +19,4 @@ And as of now, I've started my inner journey with Yoga and cooking, and my outer
 
 As a person with an obviously high amount of intrests, I believe I have been able to transfer my knowledge and perspective I gain in each experience, and no path ventured is a waste for one who can learn from it.
 
+Here are some <a href="/gallery">photos</a> of me.
