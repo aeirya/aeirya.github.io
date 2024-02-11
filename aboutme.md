@@ -6,6 +6,8 @@ classes:
 author_profile: true
 ---
 
+<!--excerpt-->
+
 (I didn't have much time to refine this text, but GPT san <a href="/aboutmegpt">did</a>).
 
 This is a very brief story mostly about my linguistics journey. For (academic) projects and experience check my <a href="/research">research</a>.
