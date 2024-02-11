@@ -1,5 +1,5 @@
 ---
-layout: custom-summary
+layout: home
 author_profile: true
 ---
 
