@@ -6,6 +6,6 @@ classes:
   - wide
 ---
 
-Invested in computational linguistics, and computer systems. My ideal projects would he comprehensive analysis of diverse languages and dialects, and enabling computers for better semantic comprehension.
+Invested in computational linguistics and intrigued by computer systems, I'm passionate about analyzing language varieties. I believe this will help preserve and discover languages and cultures, improve the social quality of life for people, and enhance the learning abilities of computer agents. My goal is to help computers understand language better.
 
-Check my <a href="https://github.com/aeirya">GitHub</a> page to see my hands-on projects.
+Check out my projects on my <a href="https://github.com/aeirya">GitHub</a> page.
