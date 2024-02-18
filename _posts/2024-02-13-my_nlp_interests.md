@@ -3,12 +3,16 @@ layout: compress
 title:  "My NLP Interests"
 ---
 
-<html lang="en">
+<!-- <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Stylish Table Layout</title>
+<title>Stylish Table Layout</title> -->
 <style>
+    . {
+        padding: 20px;
+    }
+
     body {
         font-family: Arial, sans-serif;
         background-color: #f8f9fa;
@@ -68,11 +72,12 @@ title:  "My NLP Interests"
         margin: 30px auto;
     }
 </style>
-</head>
-<body>
+<!-- </head> -->
+
+<!-- <body> -->
 
 <div class="title">
-    <h1>My NLP interests</h1>
+    <h1>My NLP Interests</h1>
 
     <div class="name-section">
         <p>Aeirya Mohammadi</p>
@@ -86,15 +91,17 @@ title:  "My NLP Interests"
                 <th>Title</th>
                 <th>Short Description</th>
                 <th>Related</th>
+                <th>Article(s)</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Data 1</td>
-                <td>Data 2</td>
-                <td>Data 3</td>
+                <td>Iteration Validation of LLMs</td>
+                <td>Improve LLM result by fine-tuning a smaller validator T5 model</td>
+                <td>Relation Extraction</td>
+                <td>PiVe</td>
             </tr>
-            <tr>
+            <!-- <tr>
                 <td>Data 4</td>
                 <td>Data 5</td>
                 <td>Data 6</td>
@@ -103,35 +110,49 @@ title:  "My NLP Interests"
                 <td>Data 7</td>
                 <td>Data 8</td>
                 <td>Data 9</td>
-            </tr>
+            </tr> -->
         </tbody>
     </table>
 </div>
 
 <div class="paragraphs">
-    <p><strong>Data 1:</strong> This is an explanation of what Data 1 represents.</p>
-    <p><strong>Data 4:</strong> This is an explanation of what Data 4 represents.</p>
-    <p><strong>Data 7:</strong> This is an explanation of what Data 7 represents.</p>
+    <p><strong>Iteration Validation:</strong>  <br>
+    1. Collect wikipedia persian unstructured text <br>
+    2. Convert it to semantic graphcs <br>
+    3. improve the quality of data using validator <br>
+    </p>
+    <!-- <p><strong>Data 4:</strong> This is an explanation of what Data 4 represents.</p>
+    <p><strong>Data 7:</strong> This is an explanation of what Data 7 represents.</p> -->
 </div>
 
 <!-- todo: use a seperate class for this -->
 <div class="name-section">
-    <p>Last edit: Februrary 13th 2024</p>
+    <p>Last edit: Februrary 18th 2024</p>
 </div>
 
-<div class="container" style="padding: 20px;">
+<!-- <div class="container">
+# Header
+some text
+</div> -->
+
+<!-- <div class="container" style="padding: 20px;">
     <p>
         <h2>
             Title
         </h2>
         So let's talk about this
     </p>
-</div>
+</div> -->
 
-</body>
-</html>
 
-# Markdown
+<!-- </body>
+</html> -->
+
+<!-- # Markdown
 Does this workd too?
 - one
 - for themoney
+
+what abourt this
+
+M -->
