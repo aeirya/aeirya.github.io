@@ -3,11 +3,11 @@ layout: compress
 title:  "My NLP Interests"
 ---
 
-<!-- <html lang="en">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Stylish Table Layout</title> -->
+<!-- <title>Stylish Table Layout</title> -->
 <style>
     . {
         padding: 20px;
@@ -72,9 +72,9 @@ title:  "My NLP Interests"
         margin: 30px auto;
     }
 </style>
-<!-- </head> -->
+</head>
 
-<!-- <body> -->
+<body>
 
 <div class="title">
     <h1>My NLP Interests</h1>
@@ -145,8 +145,8 @@ some text
 </div> -->
 
 
-<!-- </body>
-</html> -->
+</body>
+</html>
 
 <!-- # Markdown
 Does this workd too?
