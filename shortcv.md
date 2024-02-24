@@ -13,7 +13,7 @@ author_profile: true
 <hr>
 
 - <b>Programming:</b> Python, Java, C#, C++, Scala, MIPS, ...
-- <b>Tools:</b> SKLearn, PyTorch, NumPy, OpenCV, ...
+- <b>Tools:</b> SKLearn, PyTorch, NumPy, OpenCV, transformers, spaCy, ...
 
 
 <hr>
@@ -22,7 +22,7 @@ author_profile: true
 
 <hr>
 
-- Natural Language Understanding (Seq-Clf, Seq2Seq, Intent Detection & Slot Filling, QA, ...)
+- Natural Language Understanding (Seq-Clf, Seq2Seq, Intent Detection, ...)
 - Information Retrieval (Relation Extraction, Collaborative Filtering, Embeddings, ...)
 - Language Models (BERT, GPT, N-Gram) + Encoder-Decoder
 - Big Data (Spark, Map Reduce, Cassandra)

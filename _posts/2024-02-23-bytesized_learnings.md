@@ -54,7 +54,7 @@ model = AutoModelForCausalLM.from_pretrained(
 )
 ```
 
-#### AWQ: Activation-aware Weight QuantizationPermalink
+#### AWQ: Activation-aware Weight Quantization
 Like GPTQ, but it assumes not all weights are equally important for performance. Good quantization loss, relatively new. How to: _vllm_
 
 ```py

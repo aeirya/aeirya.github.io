@@ -6,7 +6,6 @@ classes:
 author_profile: true
 ---
 
-Click [here](/aboutme_full) to see the original text.
 Check out [CV](/shortcv) and [research](/research) for academic content.
 
 # About me
@@ -18,13 +17,15 @@ Exploring languages has been a lifelong fascination for me. From delving into Ja
 <!--excerpt-->
 
 ## Science & major
-Drawn to science and engineering, I participated in the National Chemistry Olympiad, then entered Chemical Engineering program, before realizing my true potential and passion lies in Computer Science. I consider myself fortunate to be living in a time of rapid advancements in natural language processing.
+Drawn to science and engineering, I first participated in the National Chemistry Olympiad, then got into the Chemical Engineering program, before realizing my true potential and passion lies in Computer Science. I consider myself fortunate to be living in a time of rapid advancements in natural language processing.
 
 ## Personal life
-Beyond academics, I enjoy activities like basketball, swimming, board and video games, and playing six musical instruments. Recently, I've also started exploring Yoga, cooking, psychology, neuroscience  and cognitive science concepts, and more of linguistics. I believe in finding a balance between work and personal journey, valuing each experience as an opportunity to learn and grow.
+Beyond academics, I enjoy activities like basketball, swimming, board and video games, and playing a handful of musical instruments. Recently, I've also started exploring yoga, cooking, psychology, neuroscience  and cognitive science concepts, and definitely more of linguistics. I believe in finding a balance between work and personal journey, valuing each experience as an opportunity to learn and grow.
 
 
 ## More of me
 Feel free to contact me using [email](mailto:aeiryam@gmail.com), or check out some <a href="/gallery">photos</a> of me.
 
 (Rewritten with the help of ChatGPT.)
+
+Click [here](/aboutme_full) to see the original text.
