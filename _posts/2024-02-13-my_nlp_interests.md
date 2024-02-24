@@ -3,7 +3,7 @@ layout: compress
 title:  "My NLP Interests"
 ---
 
-<html lang="en">
+<!-- <html lang="en"> -->
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -96,7 +96,7 @@ title:  "My NLP Interests"
         </thead>
         <tbody>
             <tr>
-                <td>Iteration Validation of LLMs</td>
+                <td>Iterative Validation of LLMs</td>
                 <td>Improve LLM result by fine-tuning a smaller validator T5 model</td>
                 <td>Relation Extraction</td>
                 <td>PiVe</td>
@@ -116,10 +116,10 @@ title:  "My NLP Interests"
 </div>
 
 <div class="paragraphs">
-    <p><strong>Iteration Validation:</strong>  <br>
-    1. Collect wikipedia persian unstructured text <br>
-    2. Convert it to semantic graphcs <br>
-    3. improve the quality of data using validator <br>
+    <p><strong>Iterative Validation:</strong>  <br>
+    1. Collect Persian unstructured text from Wikipedia <br>
+    2. Make semantic graphs <br>
+    3. Improve the quality of data using the validator <br>
     </p>
     <!-- <p><strong>Data 4:</strong> This is an explanation of what Data 4 represents.</p>
     <p><strong>Data 7:</strong> This is an explanation of what Data 7 represents.</p> -->
@@ -130,29 +130,7 @@ title:  "My NLP Interests"
     <p>Last edit: Februrary 18th 2024</p>
 </div>
 
-<!-- <div class="container">
-# Header
-some text
-</div> -->
-
-<!-- <div class="container" style="padding: 20px;">
-    <p>
-        <h2>
-            Title
-        </h2>
-        So let's talk about this
-    </p>
-</div> -->
-
 
 </body>
-</html>
+<!-- </html> -->
 
-<!-- # Markdown
-Does this workd too?
-- one
-- for themoney
-
-what abourt this
-
-M -->
