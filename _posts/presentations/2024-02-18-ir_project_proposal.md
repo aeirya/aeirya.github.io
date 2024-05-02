@@ -2,6 +2,7 @@
 layout: posts
 title:  "Presentation: Iterative Improvement of LLM Relation Extraction"
 author_profile: true
+tags: ["presentation", "slides"]
 ---
 
 My Information Retrieval (IR) Masters Course Project Proposal

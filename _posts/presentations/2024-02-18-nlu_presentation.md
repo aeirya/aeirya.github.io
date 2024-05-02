@@ -2,6 +2,7 @@
 layout: posts
 title:  "Presentation: Prompt and Instruction Tuning"
 author_profile: true
+tags: ["presentation", "slides"]
 ---
 
 My Natural Language Understanding (NLU) Masters Course Presentation Slides
