@@ -25,3 +25,16 @@ ACL 2023
         - Use in fully-supervised training (80.76, best score)
         - or few-shot setting (76.13)
 - Strict evaluation isn't most suited for LLM-extracted relation types. 
+
+### GPT-RE: In-context Learning for Relation Extraction using Large Language Models
+
+EMNLP 2023
+
+- Use best examples for few-shot:
+
+    Encode sentences and retrieve best with kNN
+    1. Encode with SimCSE template: The relation between $e_1$ and $e_2$ is: *sentence* 
+    2. Encode with BERT-based FT methods: [CLS][SUB_PER]...
+
+- Enrich prompt with GPT-3-generated reasoning:
+What are the clues that lead to the relation between [$e_1$] and [$e_2$] to be [relation] in the sentence [context]?
