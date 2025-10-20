@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dar
 locale                   : "en-US"
 title                    : "Aeirya M., Grad Student"
 title_separator          : "-"
-subtitle                 : Academia, Computational Linguistics, Languages, Computers, and Photography! # site tagline that appears below site title in masthead
+subtitle                 : Academia and the joy of nerdiness! # site tagline that appears below site title in masthead
 name                     : "Aeirya Mohammadi"
 description              : "My personal page."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -105,10 +105,10 @@ analytics:
 # Site Author
 author:
   name             : "Aeirya Mohammadi"
-  avatar           : "/assets/images/me/esfehan_lights.jpg"
+  avatar           : "/assets/images/me/isfahan_lights.jpeg"
   bio              : |
-    CS Graduate
-    Master's student in Language & Communication Technologies
+    CS Graduate  
+    Master's student in Language & Communication Technologies  
     Language Enthusiast
   location         : "UPV/EHU, Donostia"
   email            : 
