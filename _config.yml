@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dar
 locale                   : "en-US"
 title                    : "Aeirya M., Grad Student"
 title_separator          : "-"
-subtitle                 : site tagline that appears below site title in masthead
+subtitle                 : Academia, Computational Linguistics, Languages, Computers, and Photography! # site tagline that appears below site title in masthead
 name                     : "Aeirya Mohammadi"
 description              : "My personal page."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -105,8 +105,11 @@ analytics:
 # Site Author
 author:
   name             : "Aeirya Mohammadi"
-  avatar           : "/assets/images/me/black_coat.jpg"
-  bio              : "Master's Student in Language & Communication Techonlogies, Computational Linguistics Enthusiast"
+  avatar           : "/assets/images/me/esfehan_lights.jpg"
+  bio              : |
+    CS Graduate
+    Master's student in Language & Communication Technologies
+    Language Enthusiast
   location         : "UPV/EHU, Donostia"
   email            : 
   links:
@@ -118,7 +121,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/AeiryaM"
+      # url: "https://x.com/AeiryaM"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -128,6 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://www.instagram.com/mad_sc1ent1st"
+    # - label: "Phone"
+    #   icon: "fas fa-fw fa-phone"
+    #   url: "tel:+34661477475"
 
 # Site Footer
 footer:
