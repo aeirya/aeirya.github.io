@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aeirya M., AI Grad"
+title                    : "Aeirya M., Grad Student"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : site tagline that appears below site title in masthead
 name                     : "Aeirya Mohammadi"
 description              : "My personal page."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : Aeirya's Personal Page # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "Aeirya Mohammadi"
-  avatar           : "/assets/images/esfehan-lights.jpeg"
-  bio              : "Master's Student in AI, Computational Linguistics Enthusiast"
-  location         : 
+  avatar           : "/assets/images/me/black_coat.jpg"
+  bio              : "Master's Student in Language & Communication Techonlogies, Computational Linguistics Enthusiast"
+  location         : "UPV/EHU, Donostia"
   email            : 
   links:
     - label: "aeiryam@gmail.com"
@@ -118,7 +118,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://x.com/AeiryaM"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -127,11 +127,14 @@ author:
       url: "https://github.com/aeirya"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://www.instagram.com/mad_sc1ent1st"
 
 # Site Footer
 footer:
   links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/mad_sc1ent1st"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -143,9 +146,6 @@ footer:
       # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
       # url:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
