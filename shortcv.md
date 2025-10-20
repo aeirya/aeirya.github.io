@@ -7,8 +7,11 @@ classes:
 author_profile: true
 ---
 
-- M.Sc. in Artifical Intelligence @ Amirkabir University of Technology, 2025 (Expected)
-- B.Sc. in Computer Science @ Sharif University of Technology, 2023, GPA 17.05/20
+- **Ongoing** — *Erasmus Mundus Masters Programme in Language & Communication Technologies (LCT)*  
+  - University of the Basque Country (UPV/EHU)  
+  - Charles University
+- M.Sc. in Artificial Intelligence, Amirkabir University of Technology (2023–2024) — Withdrawn
+- B.Sc. in Computer Science, Sharif University of Technology (2023) — GPA: 17.05/20
 
 <hr>
 
