@@ -105,7 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Aeirya Mohammadi"
-  avatar           : "/assets/images/me/isfahan_lights.jpeg"
+  avatar_alt      : "/assets/images/me/isfahan_lights.jpeg"
+  avatar_main       : "/assets/images/me/black_coat.jpg"
   bio              : |
     CS Graduate  
     Master's student in Language & Communication Technologies  
