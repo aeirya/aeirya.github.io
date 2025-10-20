@@ -6,6 +6,10 @@ classes:
 author_profile: true
 ---
 
+<img src="/assets/images/me/isfahan_lights.jpeg"
+     alt="Aeirya Mohammadi"
+     style="float: right; width: 120px; border-radius: 8px; margin: 0 0 10px 15px;">
+
 Check out [CV](/shortcv) and [research](/research) for academic content.
 
 # About me
