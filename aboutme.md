@@ -13,7 +13,7 @@ author_profile: true
 Check out [CV](/shortcv) and [research](/research) for academic content.
 
 # About me
-Hi there! I'm Aeirya, a 23-year-old with a passion for languages and technology. My journey into linguistics started early thanks to Middle Persian roots of my name, and mythology. 
+Hi there! I'm Aeirya, a 25-year-old with a passion for languages and technology. My journey into linguistics started early thanks to Middle Persian roots of my name, and mythology. 
 
 ## Languages
 Exploring languages has been a lifelong fascination for me. From delving into Japanese and French to uncovering the nuances of Arabic, Norwegian and Chinese. I've enjoyed diving deep into more than a dozen languages and dialects, such as Gilaki dialects. My linguistic adventures extend to exploring various writings systems, from Cyrillic to Hebrew. Alongside this passion, I've also immersed myself in technology, dabbling in programming languages, and game development.
