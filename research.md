@@ -10,11 +10,12 @@ Invested in computational linguistics and intrigued by computer systems, I'm pas
 
 <!--excerpt-->
 
+I'm currently mostly focussed on developing language technologies for Gilaki, a very low-resource Iranian language.
 Check out my projects on my <a href="https://github.com/aeirya">GitHub</a> page.
 
-## TLDR ⚡
+<!-- ## TLDR ⚡
 ### NLP
 - Language Diversity
 - Parameter-Efficient Learning
 - Document-level Relation Extraction with Distant Supervision
-- Computational Neuroscience
+- Computational Neuroscience -->
