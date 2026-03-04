@@ -8,6 +8,7 @@ Quick introduction:
 - [Research &#128218;](/research/)
 
 More links:
+- [Gilaki &#127760;](/gilaki/)
 - [CV &#128193;](/cv/)
 - [About &#129414;](/aboutme/)
 - [Blogs &#128221;](/blogs/)
