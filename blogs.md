@@ -1,6 +1,6 @@
 ---
 layout: home
-author_profile: true
+author_profile: false
 ---
 
 Not much here yet! But here's a life-changing quote:

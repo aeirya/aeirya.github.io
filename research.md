@@ -6,7 +6,7 @@ classes:
   - wide
 ---
 
-## TLDR  ⚡
+My interests include:
 - Low-resource NLP
 - Morphology
 - Iranian languages
@@ -21,7 +21,7 @@ Invested in computational linguistics and intrigued by computer systems, I'm pas
 
 I'm currently mostly focussed on developing language technologies for Gilaki, a very low-resource Iranian language.
 
-<br/>
+---
 
 Check out my [projects &#128187;](https://github.com/aeirya") on GitHub.
 

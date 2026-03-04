@@ -3,7 +3,7 @@ layout: single
 classes:
   - landing
   - wide
-author_profile: true
+author_profile: false
 ---
 
 <img src="/assets/images/me/isfahan_lights.jpeg"

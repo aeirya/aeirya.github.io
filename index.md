@@ -3,8 +3,8 @@ layout: home
 author_profile: true
 ---
 
-As a current student of the Erasmus Mundus Master in Language and Communication Technologies (EMLCT),
-I work on computational linguistics for __low-resource__ languages.
+As a current student of the Erasmus Mundus Master in Language and Communication Technologies (EMLCT) program,
+I work on __computational linguistics__ for __low-resource__ languages.
 
 
 **🌱 Featured**: | **[Gilaki Language Technologies &#127760;](/gilaki/)**

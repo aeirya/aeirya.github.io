@@ -7,10 +7,11 @@ classes:
 author_profile: true
 ---
 
-My recent repositories of language technologies for the Gilaki language:
-- [Gilaki Lexical DB](https://github.com/aeirya/gillex)
-- [Iranic language identification](https://github.com/aeirya/iranic-lid)
-- [Website code for Gilaki Community Corpus Collection and Validation](https://github.com/aeirya/gilaki-corpus-hub)
+Recent repositories for Gilaki language technologies:
 - [Morphological analyzer for Gilaki verbs](https://github.com/aeirya/gilaki-inflection)
+- [Gilaki lexical DB](https://github.com/aeirya/gillex)
+- [Iranic language identification](https://github.com/aeirya/iranic-lid)
+- [Website code for the Gilaki community corpus collection and validation](https://github.com/aeirya/gilaki-corpus-hub)
+- [Gilaki Corpora](https://github.com/aeirya/corpus-linguistics-course)
 
-They all are in early development. Feel free to contribute!
+All are in early development. Feel free to contribute!
