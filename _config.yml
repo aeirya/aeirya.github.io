@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aeirya M., LangTech"
+title                    : "Aeirya M., Lang Tech"
 title_separator          : "-"
-subtitle                 : Academia and the joy of nerdiness! # site tagline that appears below site title in masthead
+subtitle                 : Research and the joy of nerdiness! # site tagline that appears below site title in masthead
 name                     : "Aeirya Mohammadi"
-description              : "My personal page."
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,8 +108,9 @@ author:
   avatar_alt      : "/assets/images/me/isfahan_lights.jpeg"
   avatar_main       : "/assets/images/me/black_coat.jpg"
   bio              : |
-    👨‍💻 Computer Science Grad  
-    🔬 Studying Masters in Language & Communication Technologies
+    👨‍💻 CompSci Grad  
+    🔬 Masters Student
+    🏛️ EMLCT
     📚 Language Enthusiast
   location         : "UPV/EHU, Donostia"
   email            : 

@@ -3,16 +3,15 @@ layout: home
 author_profile: true
 ---
 
-As a current student of the Erasmus Mundus Master in Language and Communication Technologies (LCT),
+As a current student of the Erasmus Mundus Master in Language and Communication Technologies (EMLCT),
 I work on computational linguistics for __low-resource__ languages.
 
-<br/>
 
-### 🌱 Featured
-- **[Gilaki Language Technologies &#127760;](/gilaki/)**
+**🌱 Featured**: | **[Gilaki Language Technologies &#127760;](/gilaki/)**
 
-### Academic
-- [Research &#128218;](/research/), [Short CV &#128196;](/shortcv/), [Full CV &#128193;](/cv/)
+**Recent**: | [Gilaki Verb Morphological Analyzer (WIP)](https://github.com/aeirya/gilaki-inflection)
 
-### More
-- [Projects &#128187;](https://github.com/aeirya), [Blogs &#128221;](/blogs/), [About &#129414;](/aboutme/)
+**Academic**: | [Research &#128218;](/research/) | [CV &#128193;](/shortcv/)
+
+**Other**: | [Code &#128187;](https://github.com/aeirya) | [Blogs &#128221;](/blogs/) | [About &#129414;](/aboutme/)
+
