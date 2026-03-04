@@ -3,13 +3,21 @@ layout: home
 author_profile: true
 ---
 
-Quick introduction:
-- [Short CV &#128196;](/shortcv/)
-- [Research &#128218;](/research/)
+As a current student of the Erasmus Mundus Master in Language and Communication Technologies (LCT),
+I work on computational linguistics for __low-resource__ languages.
 
-More links:
-- [Gilaki &#127760;](/gilaki/)
-- [CV &#128193;](/cv/)
+
+<br/>
+
+### 🌱 Featured
+- **[Gilaki Language Technologies &#127760;](/gilaki/)**
+
+### Academic
+- [Research &#128218;](/research/)
+- [Short CV &#128196;](/shortcv/)
+- [Full CV &#128193;](/cv/)
+
+### More
 - [About &#129414;](/aboutme/)
 - [Blogs &#128221;](/blogs/)
 - [Projects &#128187;](https://github.com/aeirya)

@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aeirya M., Grad Student"
+title                    : "Aeirya M., LangTech"
 title_separator          : "-"
 subtitle                 : Academia and the joy of nerdiness! # site tagline that appears below site title in masthead
 name                     : "Aeirya Mohammadi"
@@ -108,8 +108,8 @@ author:
   avatar_alt      : "/assets/images/me/isfahan_lights.jpeg"
   avatar_main       : "/assets/images/me/black_coat.jpg"
   bio              : |
-    👨‍💻 Computer Science Graduate  
-    🔬 Master's student in Language & Communication Technologies  
+    👨‍💻 Computer Science Grad  
+    🔬 Studying Masters in Language & Communication Technologies
     📚 Language Enthusiast
   location         : "UPV/EHU, Donostia"
   email            : 
@@ -129,6 +129,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aeirya"
+    - label: "CV"
+      icon: "fas fa-fw fa-file"
+      url: "/shortcv/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://www.instagram.com/mad_sc1ent1st"
@@ -162,7 +165,7 @@ footer:
       url: "https://open.spotify.com/user/aeirya"
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/aeirya"
+      url: "https://t.me/aeiryam"
 
 
 # Reading Files

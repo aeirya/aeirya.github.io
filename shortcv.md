@@ -7,6 +7,9 @@ classes:
 author_profile: true
 ---
 
+- (**[Click](https://aeirya.github.io/files/cv.pdf)** for Full CV).
+
+
 - **Ongoing** — *Erasmus Mundus Masters Programme in Language & Communication Technologies (LCT)*  
   - University of the Basque Country (UPV/EHU)  
   - Charles University
