@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,7 +20,7 @@ title                    : "Aeirya M., Lang Tech"
 title_separator          : "-"
 subtitle                 : Research, joy and nerdiness! # site tagline that appears below site title in masthead
 name                     : "Aeirya Mohammadi"
-description              : ""
+description              : "Language technology, low-resource NLP, and computational linguistics."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -241,7 +241,8 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-show_recent_posts: false
+# Homepage
+show_recent_posts: false # set true to show the automatic recent-post feed on /
 
 # Plugins (previously gems:)
 plugins:

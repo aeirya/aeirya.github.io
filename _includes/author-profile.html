@@ -5,7 +5,7 @@
 
   {% assign avatar = author.avatar_main %}
   {% unless page.url == '/' %}
-    {% assign avatar_src = author.avatar_alt %}
+    {% assign avatar = author.avatar_alt | default: author.avatar_main %}
   {% endunless %}
 
   {% if avatar %}
