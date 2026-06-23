@@ -15,3 +15,4 @@ I work on __computational linguistics__ for __low-resource__ languages.
 
 **Other**: | [Code &#128187;](https://github.com/aeirya) | [Blogs &#128221;](/blogs/) | [About &#129414;](/aboutme/)
 
+[Read my posts](/posts/){: .btn .btn--primary}
