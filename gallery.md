@@ -6,8 +6,8 @@ author_profile: false
 #   - wide
 ---
 
-- Me, who doesn't drink, attending a party, wearing my friend's ducky tie the correct way!
-- Happiness of [working alongside your friend] + [seeing your beloved] + [having a rainy day].
+- The correct way to wear a ducky tie!
+- Happiness of being with a friend, beloved, or in the rain.
 
 <p float="left">
   <img src="{{ 'assets/images/me/ducky_tie_party_close_up.jpg' | relative_url }}" width="48%" />

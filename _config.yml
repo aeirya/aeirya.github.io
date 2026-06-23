@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dar
 locale                   : "en-US"
 title                    : "Aeirya M., Lang Tech"
 title_separator          : "-"
-subtitle                 : Research and the joy of nerdiness! # site tagline that appears below site title in masthead
+subtitle                 : Research, joy and nerdiness! # site tagline that appears below site title in masthead
 name                     : "Aeirya Mohammadi"
 description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : Aeirya's Personal Page # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -108,10 +108,10 @@ author:
   avatar_alt      : "/assets/images/me/isfahan_lights.jpeg"
   avatar_main       : "/assets/images/me/black_coat.jpg"
   bio              : |
-    👨‍💻 CompSci Grad  
-    🔬 Masters Student  
-    🏛️ EMLCT  
-    📚 Language Enthusiast
+    👨‍💻 CompSci grad  
+    🔬 Masters student  
+    🏛️ EMLCT
+    📚 Low-resource languages
   location         : "UPV/EHU, Donostia"
   email            : 
   links:
@@ -240,6 +240,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+show_recent_posts: false
 
 # Plugins (previously gems:)
 plugins:

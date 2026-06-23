@@ -10,10 +10,10 @@ author_profile: false
      alt="Aeirya Mohammadi"
      style="float: right; width: 160px; border-radius: 8px; margin: 0 0 10px 15px;">
 
-Check out [CV &#128196;](/shortcv) and [research &#128218;](/research) for academic content.
+Check out [CV &#128196;](/shortcv) and [research &#128218;](/research) for academics.
 
 # About me
-Hi there! I'm Aeirya, a 25-year-old with a passion for languages and technology. My journey into linguistics started early thanks to Middle Persian roots of my name, and mythology. 
+Hi there! I'm Aeirya, a 26-year-old with a passion for languages and technology. My journey into linguistics started early thanks to Middle Persian roots of my name, and mythology. 
 
 ## Languages
 Exploring languages has been a lifelong fascination for me. From delving into Japanese and French to uncovering the nuances of Arabic, Norwegian and Chinese. I've enjoyed diving deep into more than a dozen languages and dialects, such as Gilaki dialects. My linguistic adventures extend to exploring various writings systems, from Cyrillic to Hebrew. Alongside this passion, I've also immersed myself in technology, dabbling in programming languages, and game development.
@@ -29,7 +29,3 @@ Beyond academics, I enjoy activities like basketball, swimming, board and video 
 
 ## More of me
 Feel free to contact me using [email](mailto:aeiryam@gmail.com), or check out some <a href="/gallery">photos</a> of me.
-
-(Rewritten with the help of ChatGPT.)
-
-Click [here](/aboutme_full) to see the original text.
