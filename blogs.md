@@ -3,6 +3,8 @@ layout: home
 author_profile: false
 ---
 
+### Actual Blogs
+
 Not much here yet! But here's a life-changing quote:
 
 
@@ -15,4 +17,5 @@ Not much here yet! But here's a life-changing quote:
 
 ### More
 [Read my posts](/posts/){: .btn .btn--primary}
+[See my activities](/activities/){: .btn}
 

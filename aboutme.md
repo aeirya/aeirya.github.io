@@ -12,6 +12,8 @@ author_profile: false
 
 Check out [CV &#128196;](/shortcv) and [research &#128218;](/research) for academics.
 
+See [activities](/activities) to see what I am up to.
+
 # About me
 Hi there! I'm Aeirya, a 26-year-old with a passion for languages and technology. My journey into linguistics started early thanks to Middle Persian roots of my name, and mythology. 
 
