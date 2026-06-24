@@ -10,9 +10,10 @@ classes:
 <div class="photo-grid">
   {% for photo in site.data.photos %}
     <a class="photo-card" href="{{ photo.image | relative_url }}">
-      <img src="{{ photo.image | relative_url }}" alt="{{ photo.alt }}">
+      <img src="{{ photo.image | relative_url }}" alt="{{ photo.alt | default: photo.caption | escape }}">
+
       {% if photo.caption %}
-        <span>{{ photo.caption }}</span>
+        <span class="photo-caption">{{ photo.caption }}</span>
       {% endif %}
     </a>
   {% endfor %}

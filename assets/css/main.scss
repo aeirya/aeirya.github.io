@@ -72,6 +72,37 @@ search: false
   }
 }
 
+// captions
+.photos-page .photo-card {
+  position: relative;
+}
+
+.photos-page .photo-caption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  padding: 0.55rem 0.65rem;
+  font-size: 0.8rem;
+  line-height: 1.25;
+
+  color: #fff;
+  background: linear-gradient(
+    transparent,
+    rgba(0, 0, 0, 0.72)
+  );
+
+  opacity: 0;
+  transform: translateY(4px);
+  transition: opacity 0.18s ease, transform 0.18s ease;
+}
+
+.photos-page .photo-card:hover .photo-caption {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 // links
 
 .sidebar a,
