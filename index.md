@@ -3,8 +3,7 @@ layout: home
 author_profile: true
 ---
 
-I am a master's student in the Erasmus Mundus Language and Communication Technologies ([EMLCT](https://lct-master.org/)) program, where 
-I focus on __computational linguistics__ for __low-resource__ languages.
+[Master's](https://lct-master.org) student with focus on __computational linguistics__ for __low-resource__ languages.
 
 
 | **📌 Featured** | **[&#127760; Gilaki Language Technologies](/gilaki/)**|
