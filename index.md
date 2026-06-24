@@ -5,6 +5,8 @@ classes:
   - home-page
 ---
 
+<div class="home-clean-links" markdown="1">
+
 [Master's student](https://lct-master.org) with focus on [__computational linguistics__](/research/) for __low-resource__ languages like [Gilaki](/gilaki/).
 
 
@@ -18,3 +20,5 @@ classes:
 
 [Read my posts](/posts/){: .btn .btn--primary}
 
+
+</div>

@@ -3,7 +3,7 @@ layout: home
 author_profile: false
 ---
 
-### Actual Blogs
+### Blogs
 
 Not much here yet! But here's a life-changing quote:
 
