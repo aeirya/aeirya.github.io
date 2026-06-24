@@ -108,9 +108,14 @@ author:
   avatar_alt      : "/assets/images/me/isfahan_lights.jpeg"
   avatar_main       : "/assets/images/me/black_coat.jpg"
   bio              : |
-    👨‍💻 Computer Scientist  
-    🏛️ Student @ [EMLCT](https://lct-master.org)
-    📚 Low-resource languages
+    🏛️ EMLCT: [UPV/EHU](https://ehu.eus/en/web/master/master-language-communication-technologies) → [Matfyz](https://ufal.mff.cuni.cz/lct/program-overview)  
+    👨‍💻 [CS @ Sharif University of Technology](https://google.com/search?q=Sharif+University+of+Technology+computer+science)  
+    🔬 [Low-resource NLP](/research/)  
+  # 📚 Computational linguistics
+  # 👨‍💻 Computer Scientist  
+  # 📚 Low-resource languages
+  # 🔬 European Masters Program - Language & Communication Technologies
+  # 🏛️ Student @ [EMLCT](https://lct-master.org)  
   # 🔬 Masters student  
 
   location         : "UPV/EHU, Donostia"
@@ -165,9 +170,9 @@ footer:
     # - label: "Telegram"
     #   icon: "fab fa-fw fa-telegram"
     #   url: "https://t.me/aeiryam"
-    - label: "X"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AeiryaM"
+    # - label: "X"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/AeiryaM"
 
 
 # Reading Files
