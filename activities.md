@@ -2,7 +2,8 @@
 layout: home
 ---
 
-## Hobbies
+### Hobbies
 
-I love photographing as I'm running. Here are some photos from my album:
-[photos](/photos/){: .btn .btn--primary}.
+I love photographing, running, and photographing while running. Here are some photos from my album:
+
+[photos](/photos/){: .btn}.

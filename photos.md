@@ -4,7 +4,6 @@ layout: single
 permalink: /photos/
 author_profile: false
 classes:
-  - wide
   - photos-page
 ---
 
