@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "air" #"default", "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aeirya M., Lang Tech"
+title                    : "Aeirya Mohammadi"
 title_separator          : "-"
-subtitle                 : Research, joy and nerdiness! # site tagline that appears below site title in masthead
+subtitle                 : " " # site tagline that appears below site title in masthead
 name                     : "Aeirya Mohammadi"
-description              : "Language technology, low-resource NLP, and computational linguistics."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Language Technology · Low-Resource NLP · Computational Linguistics"
+url                      : "https://aeirya.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "aeirya/aeirya.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Aeirya" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -90,8 +90,8 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : AeiryaM # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : "Aeirya Mohammadi" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
@@ -108,10 +108,10 @@ author:
   avatar_alt      : "/assets/images/me/isfahan_lights.jpeg"
   avatar_main       : "/assets/images/me/black_coat.jpg"
   bio              : |
-    👨‍💻 CompSci grad  
-    🔬 Masters student  
-    🏛️ EMLCT  
+    👨‍💻 Computer Scientist  
+    🏛️ Student @ EMLCT  
     📚 Low-resource languages
+  # 🔬 Masters student  
 
   location         : "UPV/EHU, Donostia"
   email            : 
@@ -119,14 +119,14 @@ author:
     - label: "aeiryam@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:aeiryam@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
       # url: "https://x.com/AeiryaM"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -134,8 +134,8 @@ author:
     - label: "CV"
       icon: "fas fa-fw fa-file"
       url: "/shortcv/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url: "https://www.instagram.com/mad_sc1ent1st"
     # - label: "Phone"
     #   icon: "fas fa-fw fa-phone"
@@ -156,8 +156,8 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
