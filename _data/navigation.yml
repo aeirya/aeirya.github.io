@@ -19,7 +19,7 @@ main:
   #   url: /cv/
   # - title: "Research &#128218;"
   #   url: /research/
-  - title: "About &#129414;"
-    url: /aboutme/
   - title: "Blogs &#128221;"
     url: /blogs/
+  - title: "About Me &#129414;"
+    url: /aboutme/

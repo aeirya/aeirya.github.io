@@ -12,3 +12,7 @@ Not much here yet! But here's a life-changing quote:
 
 <img src="{{ '/assets/images/gif/akko-plant.gif' | relative_url }}" width="48%" />
 <img src="{{ '/assets/images/gif/sleeping-cat.gif' | relative_url }}" width="48%" />
+
+### More
+[Read my posts](/posts/){: .btn .btn--primary}
+
