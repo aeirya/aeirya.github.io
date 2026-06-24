@@ -14,10 +14,9 @@ search: false
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 8px;
-  margin-top: 1rem;
-
   width: 100%;
   max-width: 1100px;
+  margin: 1rem auto 0;
 }
 
 .photo-card {
@@ -44,6 +43,22 @@ search: false
   }
 }
 
+.photos-page .sidebar {
+  display: none;
+}
+
+.photos-page .page {
+  float: none;
+  width: 100%;
+  padding-right: 0;
+}
+
+.photos-page .page__inner-wrap {
+  max-width: none;
+}
+
+// links
+
 .sidebar a,
 .author__urls a {
   color: #666;
@@ -55,4 +70,27 @@ search: false
 .author__urls a:hover {
   color: #222;
   text-decoration: underline;
+}
+
+// homepage link
+// .home-page .page__content a:not(.btn) {
+//   text-decoration: none;
+//   border-bottom: none;
+// }
+
+// .home-page .page__content a:not(.btn):hover {
+//   text-decoration: underline;
+//   text-underline-offset: 3px;
+// }
+
+.home-page .page__content a:not(.btn) {
+  text-decoration: none;
+  border-bottom: none;
+  color: #444;
+}
+
+.home-page .page__content a:not(.btn):hover {
+  color: #111;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
