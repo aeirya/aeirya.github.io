@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-[Master's](https://lct-master.org) student with focus on __computational linguistics__ for __low-resource__ languages.
+[Master's student](https://lct-master.org) with focus on [__computational linguistics__](/research/) for __low-resource__ languages like [Gilaki](/gilaki/).
 
 
 | **📌 Featured** | **[&#127760; Gilaki Language Technologies](/gilaki/)**|

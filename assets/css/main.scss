@@ -14,10 +14,10 @@ search: false
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 8px;
+  margin-top: 1rem;
 
-  width: min(1100px, calc(100vw - 2rem));
-  margin-left: 50%;
-  transform: translateX(-50%);
+  width: 100%;
+  max-width: 1100px;
 }
 
 .photo-card {
@@ -42,4 +42,17 @@ search: false
   .photo-grid {
     grid-template-columns: 1fr;
   }
+}
+
+.sidebar a,
+.author__urls a {
+  color: #666;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.sidebar a:hover,
+.author__urls a:hover {
+  color: #222;
+  text-decoration: underline;
 }
