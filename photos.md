@@ -3,6 +3,7 @@ title: "Photos"
 layout: single
 permalink: /photos/
 author_profile: false
+classes: wide
 ---
 
 <div class="photo-grid">

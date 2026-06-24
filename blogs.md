@@ -17,5 +17,5 @@ Not much here yet! But here's a life-changing quote:
 
 ### More
 [Read my posts](/posts/){: .btn .btn--primary}
-[See my activities](/activities/){: .btn}
+[See my activities](/activities/){: .btn .btn--primary}
 

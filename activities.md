@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Click for [photos](/photos/){: .btn .btn--primary}
+Click for [photos](/photos/).

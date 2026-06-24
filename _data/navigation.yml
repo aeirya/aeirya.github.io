@@ -21,5 +21,8 @@ main:
   #   url: /research/
   - title: "Blogs &#128221;"
     url: /blogs/
+  - title: "Photos 📸"
+    utl: /photos/
   - title: "About Me &#129414;"
     url: /aboutme/
+
