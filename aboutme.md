@@ -3,12 +3,12 @@ layout: single
 classes:
   - landing
   - wide
-author_profile: false
+author_profile: true
 ---
 
-<img src="/assets/images/me/isfahan_lights.jpeg"
+<!-- <img src="/assets/images/me/isfahan_lights.jpeg"
      alt="Aeirya Mohammadi"
-     style="float: right; width: 160px; border-radius: 8px; margin: 0 0 10px 15px;">
+     style="float: right; width: 160px; border-radius: 8px; margin: 0 0 10px 15px;"> -->
 
 Check out [CV &#128196;](/shortcv) and [research &#128218;](/research) for the academics.
 
