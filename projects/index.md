@@ -20,19 +20,10 @@ A small collection of tools, experiments, projects, and open-source work.
 * *OJS plugins, tools, and infrastructure work — coming soon.*
 
 ### Algorithms & Systems
-
-#### Systems
-
 * **[Compiler (C++)](https://github.com/aeirya/Compiler)** — Compiler course final project in C++.
-
-#### Algorithms & Data Structures
-
-* **[SocialMediaDS (C++)](https://github.com/aeirya/SocialMediaDS)** — Data-structures project around a social-network model.
-* **[Face Morphing (Python)](https://github.com/aeirya/face-morphing)** — Face morphing with Delaunay triangulation.
-
-#### Simulations
-
-* **[AGT Project (Java)](https://github.com/aeirya/agt-project)** — Simulations for an algorithmic game theory course project.
+* **[Social Media LinkedList (C++)](https://github.com/aeirya/SocialMediaDS)** — Data-structures project around a social-network model.
+* **[Face Morphing (Python)](https://github.com/aeirya/face-morphing)** — Face morphing with Delaunay triangulation (image processing course).
+* **[AGT Simulations (Java)](https://github.com/aeirya/agt-project)** — Simulation project (algorithmic game theory course).
 
 ## More
 
@@ -66,7 +57,7 @@ A small collection of tools, experiments, projects, and open-source work.
 
 ### Games & Graphics
 
-#### Advanced Programming Projects
+#### Advanced Programming Projects (Java)
 
 <div class="project-grid">
   <a href="https://github.com/aeirya/Tetris">Tetris</a>
@@ -89,8 +80,8 @@ A small collection of tools, experiments, projects, and open-source work.
 #### Other Games
 
 <div class="project-grid">
-  <a href="https://github.com/aeirya/two_player_sudoko">2-player Sudoku w/ Sockets</a>
-  <a href="https://github.com/aeirya/brickbreaker">Brick Breaker</a>
+  <a href="https://github.com/aeirya/two_player_sudoko">2-player Sudoku w/ Sockets (C++)</a>
+  <a href="https://github.com/aeirya/brickbreaker">Brick Breaker (Python)</a>
 </div>
 
 ### Teaching & Course Archive
