@@ -5,6 +5,7 @@ permalink: /projects/
 excerpt: "Small tools, experiments, and projects."
 classes: wide
 ---
+
 A small collection of tools, experiments, projects, and open-source work.
 
 ## Featured
@@ -33,40 +34,72 @@ A small collection of tools, experiments, projects, and open-source work.
 
 * **[AGT Project (Java)](https://github.com/aeirya/agt-project)** — Simulations for an algorithmic game theory course project.
 
-## More Courses
+## More
 
-|   |                                                                              |                                              |                                              |
-| --- | ----------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| **AUT** | [Natural Language Understanding](https://github.com/aeirya/natural-language-understanding-course) | [Natural Language Processing](https://github.com/aeirya/nlp-aut) | [Deep Learning](https://github.com/aeirya/ann-aut) |
-| **SUT** | **[MIPS Assembly](https://github.com/aeirya/mips-playground)**|[Genetic Programming](https://github.com/aeirya/genetic_programming) |
-| **CS50** | [WikiNest](https://github.com/wggb/wiki-website) |
+### Courses
+
+<div class="project-rows">
+  <div class="project-row">
+    <strong>AUT</strong>
+    <span>
+      <a href="https://github.com/aeirya/natural-language-understanding-course">Natural Language Understanding</a>
+      <a href="https://github.com/aeirya/nlp-aut">Natural Language Processing</a>
+      <a href="https://github.com/aeirya/ann-aut">Deep Learning</a>
+    </span>
+  </div>
+
+  <div class="project-row">
+    <strong>SUT</strong>
+    <span>
+      <a href="https://github.com/aeirya/mips-playground">MIPS Assembly</a>
+      <a href="https://github.com/aeirya/genetic_programming">Genetic Programming</a>
+    </span>
+  </div>
+
+  <div class="project-row">
+    <strong>CS50</strong>
+    <span>
+      <a href="https://github.com/wggb/wiki-website">WikiNest</a>
+    </span>
+  </div>
+</div>
 
 ### Games & Graphics
 
-#### Advanced Programming Projects (Java)
+#### Advanced Programming Projects
 
-|                                                |                                                                    |                                                                  |
-| ---------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| [Tetris](https://github.com/aeirya/Tetris)     | [TicTacToe](https://github.com/aeirya/TicTacToe)                   | [Hearthstone](https://github.com/aeirya/Hearthstone)             |
-| [Joraku](https://github.com/aeirya/joraku)     | [Stratego](https://github.com/aeirya/stratego)                     | [Backgammon](https://github.com/aeirya/Backgammon)               |
-| [RedHands](https://github.com/aeirya/RedHands) | [FieldRunnerThreads](https://github.com/aeirya/FieldRunnerThreads) |  |
+<div class="project-grid">
+  <a href="https://github.com/aeirya/Tetris">Tetris</a>
+  <a href="https://github.com/aeirya/TicTacToe">TicTacToe</a>
+  <a href="https://github.com/aeirya/Hearthstone">Hearthstone</a>
+  <a href="https://github.com/aeirya/joraku">Joraku</a>
+  <a href="https://github.com/aeirya/stratego">Stratego</a>
+  <a href="https://github.com/aeirya/Backgammon">Backgammon</a>
+  <a href="https://github.com/aeirya/RedHands">RedHands</a>
+  <a href="https://github.com/aeirya/FieldRunnerThreads">FieldRunnerThreads</a>
+</div>
 
 #### Graphics
 
-|                                          |                                                                             |                                                         |
-| ---------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [LWJGL](https://github.com/aeirya/lwjgl) | [Some Other Game Graphics](https://github.com/aeirya/SomeOtherGameGraphics) | |
+<div class="project-grid">
+  <a href="https://github.com/aeirya/lwjgl">LWJGL</a>
+  <a href="https://github.com/aeirya/SomeOtherGameGraphics">Some Other Game Graphics</a>
+</div>
 
-#### Other
-| | |
-|---|---|
-|[Two-player Sudoku over Sockets (C)](https://github.com/aeirya/two_player_sudoko)|
-|[Brick Breaker (Python Final Project)](https://github.com/aeirya/brickbreaker)|
+#### Other Games
 
+<div class="project-grid">
+  <a href="https://github.com/aeirya/two_player_sudoko">Two-player Sudoku over Sockets</a>
+  <a href="https://github.com/aeirya/brickbreaker">Brick Breaker</a>
+</div>
 
 ### Teaching & Course Archive
 
-|                                                              |                                                                       |                                                                       |
-| ------------------------------------------------------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [ServiceProvider](https://github.com/aeirya/ServiceProvider) | [AP TA Sessions](https://github.com/aeirya/ApTaSessions)              | [OS 2022 TA](https://github.com/aeirya/os2022-ta)                     |
-| [AP Winter 2022](https://github.com/aeirya/apWinter2022)     | [Homework Winter 2022](https://github.com/aeirya/homework-winter2022) | [Homework Winter 2021](https://github.com/aeirya/homework-winter2021) |
+<div class="project-grid">
+  <a href="https://github.com/aeirya/ServiceProvider">ServiceProvider</a>
+  <a href="https://github.com/aeirya/ApTaSessions">AP TA Sessions</a>
+  <a href="https://github.com/aeirya/os2022-ta">OS 2022 TA</a>
+  <a href="https://github.com/aeirya/apWinter2022">AP Winter 2022</a>
+  <a href="https://github.com/aeirya/homework-winter2022">Homework Winter 2022</a>
+  <a href="https://github.com/aeirya/homework-winter2021">Homework Winter 2021</a>
+</div>

@@ -132,3 +132,39 @@ search: false
   text-decoration: underline !important;
   text-underline-offset: 3px;
 }
+
+// projects page
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+  gap: 0.35rem 1.25rem;
+  margin: 0.5rem 0 2rem;
+}
+
+.project-grid a {
+  display: inline-block;
+  padding: 0.15rem 0;
+}
+
+.project-rows {
+  margin: 0.5rem 0 2rem;
+  border-top: 1px solid #ddd;
+}
+
+.project-row {
+  display: grid;
+  grid-template-columns: 4rem 1fr;
+  gap: 1rem;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.project-row span {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.4rem;
+}
+
+.project-row strong {
+  white-space: nowrap;
+}
