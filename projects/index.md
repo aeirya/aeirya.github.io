@@ -83,13 +83,13 @@ A small collection of tools, experiments, projects, and open-source work.
 
 <div class="project-grid">
   <a href="https://github.com/aeirya/lwjgl">LWJGL</a>
-  <a href="https://github.com/aeirya/SomeOtherGameGraphics">Some Other Game Graphics</a>
+  <a href="https://github.com/aeirya/SomeOtherGameGraphics">SOG Graphics</a>
 </div>
 
 #### Other Games
 
 <div class="project-grid">
-  <a href="https://github.com/aeirya/two_player_sudoko">Two-player Sudoku over Sockets</a>
+  <a href="https://github.com/aeirya/two_player_sudoko">2-player Sudoku w/ Sockets</a>
   <a href="https://github.com/aeirya/brickbreaker">Brick Breaker</a>
 </div>
 
@@ -100,6 +100,6 @@ A small collection of tools, experiments, projects, and open-source work.
   <a href="https://github.com/aeirya/ApTaSessions">AP TA Sessions</a>
   <a href="https://github.com/aeirya/os2022-ta">OS 2022 TA</a>
   <a href="https://github.com/aeirya/apWinter2022">AP Winter 2022</a>
-  <a href="https://github.com/aeirya/homework-winter2022">Homework Winter 2022</a>
-  <a href="https://github.com/aeirya/homework-winter2021">Homework Winter 2021</a>
+  <a href="https://github.com/aeirya/homework-winter2022">Homework W2022</a>
+  <a href="https://github.com/aeirya/homework-winter2021">Homework W2021</a>
 </div>
