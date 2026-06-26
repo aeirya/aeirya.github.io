@@ -19,13 +19,8 @@ A small collection of tools, experiments, projects, and open-source work.
 
 * *OJS plugins, tools, and infrastructure work — coming soon.*
 
-### Algorithms & Systems
-* **[Compiler (C++)](https://github.com/aeirya/Compiler)** — Compiler course final project in C++.
-* **[Social Media LinkedList (C++)](https://github.com/aeirya/SocialMediaDS)** — Data-structures project around a social-network model.
-* **[Face Morphing (Python)](https://github.com/aeirya/face-morphing)** — Face morphing with Delaunay triangulation (image processing course).
-* **[AGT Simulations (Java)](https://github.com/aeirya/agt-project)** — Simulation project (algorithmic game theory course).
-
 ## More
+
 
 ### Courses
 
@@ -50,10 +45,16 @@ A small collection of tools, experiments, projects, and open-source work.
   <div class="project-row">
     <strong>CS50</strong>
     <span>
-      <a href="https://github.com/wggb/wiki-website">WikiNest</a>
+      <a href="https://github.com/wggb/wiki-website">WikiNest (Semantic Search)</a>
     </span>
   </div>
 </div>
+
+### Algorithms & Systems
+* **[Compiler (C++)](https://github.com/aeirya/Compiler)** — Compiler course final project in C++.
+* **[Social Media LinkedList (C++)](https://github.com/aeirya/SocialMediaDS)** — Data-structures project around a social-network model.
+* **[Face Morphing (Python)](https://github.com/aeirya/face-morphing)** — Face morphing with Delaunay triangulation (image processing course).
+* **[AGT Simulations (Java)](https://github.com/aeirya/agt-project)** — Simulation project (algorithmic game theory course).
 
 ### Games & Graphics
 
