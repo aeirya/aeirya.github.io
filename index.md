@@ -19,7 +19,6 @@ classes:
 <!-- [&#128221; Blogs](/blogs/) -->
 
 [Read my posts](/posts/){: .btn .btn--primary}
-
 [View my projects](/projects/){: .btn .btn--primary}
 
 
