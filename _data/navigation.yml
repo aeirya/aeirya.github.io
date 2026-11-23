@@ -13,6 +13,8 @@ main:
   # - title: "Home"
   - title: "Home &#127968;"
     url: /
+  - title: "Portfolio &#128188;"
+    url: /portfolio/
   # - title: "Short CV &#128196;"
   #   url: /shortcv/
   # - title: "CV &#128193;"
