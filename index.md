@@ -12,14 +12,15 @@ classes:
 
 | **📌 Featured** | **[&#127760; Gilaki Language Technologies](/gilaki/)**|
 | **Recent** | [Gilaki Verb Morphological Analyzer (WIP)](https://github.com/aeirya/gilaki-inflection)|
-| **Explore** | [&#128218; Research](/research/) · [&#128187; Code](https://github.com/aeirya) |
+| **Explore** | [&#128188; Portfolio](/portfolio/) · [&#128218; Research](/research/) · [&#128187; Code](https://github.com/aeirya) |
 
 <!-- · [🗂️ CV](/shortcv/) -->
 <!--  <br> [&#129414; About](/aboutme/) -->
 <!-- [&#128221; Blogs](/blogs/) -->
 
+[Selected work](/portfolio/){: .btn .btn--primary}
+[All projects](/projects/){: .btn .btn--primary}
 [Read my posts](/posts/){: .btn .btn--primary}
-[View my projects](/projects/){: .btn .btn--primary}
 
 
 </div>
