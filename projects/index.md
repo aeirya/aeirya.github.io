@@ -19,7 +19,7 @@ For a shorter, curated overview, see my [portfolio](/portfolio/).
 
 ### Open Journal Systems
 
-* *OJS plugins, tools, and infrastructure work — coming soon.*
+* **[KMANweb & OJS engineering](/projects/ojs/)** — plugins, infrastructure, and AI-assisted development across the [OJS-Inator](https://github.com/ojs-inator) ecosystem.
 
 ## More
 
