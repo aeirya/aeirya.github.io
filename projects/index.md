@@ -8,6 +8,8 @@ classes: wide
 
 A small collection of tools, experiments, projects, and open-source work.
 
+For a shorter, curated overview, see my [portfolio](/portfolio/).
+
 ## Featured
 
 ### Tools & Extensions
