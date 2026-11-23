@@ -34,7 +34,7 @@ Development and maintenance work around **Open Journal Systems (OJS)**, spanning
 
 **Areas:** PHP · Docker · Linux · shell scripting · software maintenance
 
-[Explore related repositories](https://github.com/ojs-inator)
+[Read the OJS case study](/projects/ojs/) · [Explore related repositories](https://github.com/ojs-inator)
 
 ### Gilaki language technologies — NLP tools
 
