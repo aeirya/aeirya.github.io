@@ -16,7 +16,7 @@ Software development and maintenance work around [Open Journal Systems (OJS)](ht
 
 **Focus:** PHP · Docker · Linux · DevOps · automation
 
-[Explore the OJS projects on GitHub](https://github.com/ojs-inator)
+[Read the OJS case study](/projects/ojs/) · [Explore the repositories](https://github.com/ojs-inator)
 
 ### Compiler — C++
 
